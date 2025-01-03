@@ -1,4 +1,4 @@
-package com.edli01;
+package main.java.com.edli01;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

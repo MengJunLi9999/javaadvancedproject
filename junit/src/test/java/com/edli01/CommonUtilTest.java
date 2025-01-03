@@ -1,6 +1,6 @@
-package test.com.edli01;
+package test.java.com.edli01;
 
-import com.edli01.CommonUtil;
+import main.java.com.edli01.CommonUtil;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
